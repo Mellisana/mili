@@ -1,0 +1,42 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+<<<<<<< HEAD
+.DS_Store
+# Исключаем папку .idea
+.idea/
+
+# Исключаем папку out
+out/
+
+# Исключаем все .iml файлы
+*.iml
+
+=======
+.DS_Store
+>>>>>>> 9b9a27d (initial commit)
